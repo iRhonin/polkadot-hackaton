@@ -1,0 +1,14 @@
+{
+  "name": "getblockinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Arash Fatahzade",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^2.2.1"
+  }
+}
