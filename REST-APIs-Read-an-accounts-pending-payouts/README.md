@@ -18,6 +18,6 @@ optional arguments:
   -s SIDECAR_URL, --sidecar-url SIDECAR_URL
 ```
 
-[Node](images/sidecar.png)
-[Node](images/node.png)
-[Node](images/script.png)
+![Node](./images/script.png)
+![Node](./images/sidecar.png)
+![Node](./images/node.png)
